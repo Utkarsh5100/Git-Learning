@@ -9,4 +9,7 @@ function updatebalance(value) {
     balance += value;
 }
 
+updatebalance(20);
+console.log(balance);
+
 
