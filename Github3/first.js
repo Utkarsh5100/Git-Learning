@@ -17,3 +17,6 @@ const feature = "new feature added";
 console.log(feature);
 
 console.log("Latest changes");
+
+//I am fixing some bug
+console.log("Bug Fixed by me");
